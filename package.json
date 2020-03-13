@@ -8,5 +8,8 @@
   "author": "ben gordon",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "async": "^3.1.1"
+  }
 }
