@@ -10,6 +10,6 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "async": "^3.1.1"
+    "async": "^3.2.2"
   }
 }
